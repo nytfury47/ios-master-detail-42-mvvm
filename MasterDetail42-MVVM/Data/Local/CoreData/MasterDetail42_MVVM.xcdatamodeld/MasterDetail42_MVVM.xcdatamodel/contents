@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19H2" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="Track" representedClassName="Track" syncable="YES" codeGenerationType="class">
+        <attribute name="genre" attributeType="String" defaultValueString="Track Genre"/>
+        <attribute name="imageURL" attributeType="String" defaultValueString="Track Image URL"/>
+        <attribute name="longDescription" attributeType="String" defaultValueString="Track Description"/>
+        <attribute name="name" attributeType="String" defaultValueString="Track Name"/>
+        <attribute name="price" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+    </entity>
+    <elements>
+        <element name="Track" positionX="-63" positionY="-18" width="128" height="118"/>
+    </elements>
+</model>
